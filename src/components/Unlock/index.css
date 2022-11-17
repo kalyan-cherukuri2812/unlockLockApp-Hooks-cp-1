@@ -1,0 +1,32 @@
+.main-div {
+  height: 100vh;
+  background-size: cover;
+  background-image: linear-gradient(to bottom, #0b0c1e, #3c2940);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 150px;
+}
+
+p {
+  font-family: Roboto;
+  color: white;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+button {
+  color: white;
+  font-family: roboto;
+  background-color: #06b6d4;
+  border: none;
+  outline: none;
+  padding: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 7px;
+}
